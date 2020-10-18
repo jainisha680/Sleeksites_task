@@ -1,0 +1,13 @@
+.row{
+  margin-left: 0px;
+  margin-right: 0px;
+
+/* text-align:center;*/
+}
+
+.pic{
+  height: 225px;
+  width: 300px;
+  margin: 0;
+  padding: 0;
+}
